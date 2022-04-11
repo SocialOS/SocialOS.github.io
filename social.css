@@ -46,6 +46,18 @@ body {
     display: inline-block;
     
 }
+
+.next {
+  color: #999;
+}
+
+.gold {
+  color: yellow;
+}
+
+.error {
+  color: #aaa;
+}
   
   .text::after {
     content: "";
