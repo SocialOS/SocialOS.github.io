@@ -47,12 +47,21 @@ body {
     
 }
 
+.OSName{
+  font-size: 1.3em;
+  font-weight: bold;
+
+}
 .next {
   color: #999;
 }
 
 .gold {
   color: yellow;
+}
+
+.subtext {
+  color: #aaf;
 }
 
 .error {
