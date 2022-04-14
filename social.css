@@ -1,6 +1,7 @@
 body {
     color: white;
-    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+    font-family1:  Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+    font-family: monospace;
     text-shadow: 0 0 5px #C8C8C8;
     font-size: 12px;
 
@@ -35,10 +36,17 @@ body {
   pre {
     margin: 0;
   }
-      
+     
+  .bullet-lead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+  }
+
   a {
    color:white;
   }
+
+  
 
   .text { 
 
